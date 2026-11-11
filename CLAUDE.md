@@ -38,7 +38,7 @@ Una app genérica, **multiempresa**, para que cualquier negocio de mantención h
 Pendiente para la etapa 0: Isaac debe crear el proyecto Firebase en la consola (guiarlo paso a paso) y el repo en GitHub (cuenta `isaacjorquera5823-dev`).
 
 ## Qué reutilizar de Brimahd (y dónde está)
-Repo local: `C:\Users\ijorquera\OneDrive - Hortifrut Chile SA\Documentos\CCC\otros\Brimahd-inspeccion` (GitHub: `isaacjorquera5823-dev/Brimahd-inspeccion`). **Leer siempre de la rama `main`** (lo que está en producción), ej. `git -C "<ruta>" show main:src/App.jsx`. No modificar nada en ese repo desde aquí.
+Repo local: `C:\Users\ijorquera\OneDrive - Hortifrut Chile SA\Documentos\CCC\app-mantencion\Brimahd-inspeccion` (GitHub: `isaacjorquera5823-dev/Brimahd-inspeccion`). **Leer siempre de la rama `main`** (lo que está en producción), ej. `git -C "<ruta>" show main:src/App.jsx`. No modificar nada en ese repo desde aquí.
 
 - `src/App.jsx`:
   - `comprimirImagen(file, 1600, 0.72)` + `parametrosCompresion()` — compresión de fotos, más agresiva sobre 50/100/200 fotos.
